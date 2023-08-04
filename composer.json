@@ -2,6 +2,8 @@
   "name": "plakart/contao-vanilla-accordion",
   "type": "contao-bundle",
   "description": "Contao-Bundle JavaScript Accordion ohne zusätzliche Frameworks.",
+  "homepage": "https://github.com/plakart/contao-vanilla-accordion",
+  "license": "LGPL-3.0-or-later",
   "authors": [
     {
       "name": "Agentur plakart",
